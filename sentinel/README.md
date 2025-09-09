@@ -1,16 +1,3 @@
-Perfect — let’s merge everything into a **single polished `README.md`** that covers:
-✔ What the project is about
-✔ Features
-✔ Installation
-✔ Usage (commands + examples)
-✔ Model directory details
-✔ How it works (internals)
-✔ Best practices
-✔ Contributing & license
-
-Here’s your ready-to-paste `README.md`:
-
-````markdown
 # Sentinel — Bash Log Anomaly Detector
 
 AI-style anomaly detection for logs using a lightweight n-gram (unigram + bigram) language model.
@@ -155,7 +142,7 @@ Pull requests are welcome! Please run:
 make fmt lint test
 ```
 
-before submitting a PR. See `.github/` for issue & PR templates.
+Before submitting a PR, see `.github/` for issue & PR templates.
 
 ---
 
@@ -163,17 +150,4 @@ before submitting a PR. See `.github/` for issue & PR templates.
 
 MIT — see [LICENSE](LICENSE).
 
-```
-
----
-
-✅ This `README.md` now includes **everything**:
-- Clean overview  
-- Installation & quickstart
-- Full command reference
-- Model directory explanation
-- How it works (with a Mermaid diagram)
-- Best practices, contributing, license
-
-Would you like me to also draft a **sample screenshot of the HTML report output** (as an image placeholder in the README) so the GitHub page looks more visual and engaging?
 ```
