@@ -85,7 +85,7 @@ END{
 "
 
 # Scoring: compute per-line negative log-likelihood with add-1 smoothing.
-# Also compute token & bigram contributions for explainability.
+# Also compute token & bigram contributions for explanability.
 AWK_SCORE="
 ${AWK_TOKENIZE}
 BEGIN{
