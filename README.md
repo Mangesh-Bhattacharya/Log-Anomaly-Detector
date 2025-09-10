@@ -150,5 +150,3 @@ Before submitting a PR, see `.github/` for issue & PR templates.
 
 MIT — see [LICENSE](LICENSE).
 
-```
-
